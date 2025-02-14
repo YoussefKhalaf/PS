@@ -10,4 +10,4 @@ for i in range(rows):
 diagonal2=0
 for i in range(rows):
     diagonal2+=matrix[i][rows-i-1]
-print(abs(diagonal1-diagonal2))
+print(abs( diagonal1 - diagonal2 ))
