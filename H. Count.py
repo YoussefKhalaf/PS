@@ -7,3 +7,4 @@ for i in range(no_queries):
         if(list1[j]==x):
             no_times+=1
     print(no_times)
+# link => https://codeforces.com/group/5pUldkahAU/contest/510058/problem/H
