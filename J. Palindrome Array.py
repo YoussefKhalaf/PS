@@ -5,3 +5,5 @@ if(arr==list1):
     print("YES")
 else:
     print("NO")
+
+#link => https://codeforces.com/group/5pUldkahAU/contest/510058/problem/J
